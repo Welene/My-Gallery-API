@@ -1,123 +1,127 @@
 [
 	{
 		"id": 1,
-		"src": "assets/1.JPG",
+		"src": "https://welene.github.io/My-Gallery-API/assets/1.JPG",
 		"description": "Kira in front of the Lyngen Alps"
 	},
 	{
 		"id": 2,
-		"src": "assets/2.JPG",
+		"src": "https://welene.github.io/My-Gallery-API/assets/2.JPG",
 		"description": "Boltit (bird) on the Nordnes mountain)"
 	},
 	{
 		"id": 3,
-		"src": "assets/3.JPG",
+		"src": "https://welene.github.io/My-Gallery-API/assets/3.JPG",
 		"description": "Sunset in Hamarøy"
 	},
 	{
 		"id": 4,
-		"src": "assets/4.jpg",
+		"src": "https://welene.github.io/My-Gallery-API/assets/4.jpg",
 		"description": "Sunset in Storslett"
 	},
-	{ "id": 5, "src": "assets/5.JPG", "description": "Lotta in the forest" },
+	{
+		"id": 5,
+		"src": "https://welene.github.io/My-Gallery-API/assets/5.JPG",
+		"description": "Lotta in the forest"
+	},
 	{
 		"id": 6,
-		"src": "assets/6.JPG",
+		"src": "https://welene.github.io/My-Gallery-API/assets/6.JPG",
 		"description": "Puffin flying across the ocean"
 	},
 	{
 		"id": 7,
-		"src": "assets/7.JPG",
+		"src": "https://welene.github.io/My-Gallery-API/assets/7.JPG",
 		"description": "Just a baby bunny, biggest bunny species in the world"
 	},
 	{
 		"id": 8,
-		"src": "assets/8.JPG",
+		"src": "https://welene.github.io/My-Gallery-API/assets/8.JPG",
 		"description": "Bånso taking a slurp of water"
 	},
 	{
 		"id": 9,
-		"src": "assets/9.jpg",
+		"src": "https://welene.github.io/My-Gallery-API/assets/9.jpg",
 		"description": "Goofy kitten doing - something"
 	},
 	{
 		"id": 10,
-		"src": "assets/10.jpg",
+		"src": "https://welene.github.io/My-Gallery-API/assets/10.jpg",
 		"description": "Lyngen Alps from Spåkenes"
 	},
 	{
 		"id": 11,
-		"src": "assets/11.jpg",
+		"src": "https://welene.github.io/My-Gallery-API/assets/11.jpg",
 		"description": "Kira enjoying her walk"
 	},
 	{
 		"id": 12,
-		"src": "assets/12.jpg",
+		"src": "https://welene.github.io/My-Gallery-API/assets/12.jpg",
 		"description": "Midnight sun in Djupvik"
 	},
 	{
 		"id": 13,
-		"src": "assets/13.jpg",
+		"src": "https://welene.github.io/My-Gallery-API/assets/13.jpg",
 		"description": "Snacking on a flower"
 	},
 	{
 		"id": 14,
-		"src": "assets/14.JPG",
+		"src": "https://welene.github.io/My-Gallery-API/assets/14.JPG",
 		"description": "Shaking off that snow"
 	},
 	{
 		"id": 15,
-		"src": "assets/15.JPG",
+		"src": "https://welene.github.io/My-Gallery-API/assets/15.JPG",
 		"description": "Blåisvannet in Lyngen"
 	},
 	{
 		"id": 16,
-		"src": "assets/16.jpg",
+		"src": "https://welene.github.io/My-Gallery-API/assets/16.jpg",
 		"description": "Just two friends on an autumn walk"
 	},
 	{
 		"id": 17,
-		"src": "assets/17.jpg",
+		"src": "https://welene.github.io/My-Gallery-API/assets/17.jpg",
 		"description": "On top of Nordnes"
 	},
 	{
 		"id": 18,
-		"src": "assets/18.jpg",
+		"src": "https://welene.github.io/My-Gallery-API/assets/18.jpg",
 		"description": "Midnight sun from Spåkenes"
 	},
 	{
 		"id": 19,
-		"src": "assets/19.jpg",
+		"src": "https://welene.github.io/My-Gallery-API/assets/19.jpg",
 		"description": "The view from Spåkenes"
 	},
 	{
 		"id": 20,
-		"src": "assets/20.jpg",
+		"src": "https://welene.github.io/My-Gallery-API/assets/20.jpg",
 		"description": "Yearly mountain trip (March, April & May)"
 	},
 	{
 		"id": 21,
-		"src": "assets/21.JPG",
+		"src": "https://welene.github.io/My-Gallery-API/assets/21.JPG",
 		"description": "White Tailed Eagle waiting for fish"
 	},
 	{
 		"id": 22,
-		"src": "assets/22.jpg",
+		"src": "https://welene.github.io/My-Gallery-API/assets/22.jpg",
 		"description": "Midnight sun from Nordnes"
 	},
 	{
 		"id": 23,
-		"src": "assets/23.jpg",
+		"src": "https://welene.github.io/My-Gallery-API/assets/23.jpg",
 		"description": "Lyngen Alps seen from Kåfjord"
 	},
 	{
 		"id": 24,
-		"src": "assets/24.jpg",
+		"src": "https://welene.github.io/My-Gallery-API/assets/24.jpg",
 		"description": "Summer on top of Nordnes"
 	},
 	{
 		"id": 25,
-		"src": "assets/25.jpg",
+		"src": "https://welene.github.io/My-Gallery-API/assets/25.jpg",
 		"description": "Midnight sun on an island"
 	}
 ]
